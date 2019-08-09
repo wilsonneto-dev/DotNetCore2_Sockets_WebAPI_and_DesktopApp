@@ -1,0 +1,11 @@
+C:\Users\wn_br\source\repos\Solution1\AppWindows\bin\Debug\AppWindows.exe.config
+C:\Users\wn_br\source\repos\Solution1\AppWindows\bin\Debug\AppWindows.exe
+C:\Users\wn_br\source\repos\Solution1\AppWindows\bin\Debug\AppWindows.pdb
+C:\Users\wn_br\source\repos\Solution1\AppWindows\obj\Debug\AppWindows.csprojAssemblyReference.cache
+C:\Users\wn_br\source\repos\Solution1\AppWindows\obj\Debug\AppWindows.Properties.Resources.resources
+C:\Users\wn_br\source\repos\Solution1\AppWindows\obj\Debug\AppWindows.csproj.GenerateResource.cache
+C:\Users\wn_br\source\repos\Solution1\AppWindows\obj\Debug\AppWindows.csproj.CoreCompileInputs.cache
+C:\Users\wn_br\source\repos\Solution1\AppWindows\obj\Debug\AppWindows.exe
+C:\Users\wn_br\source\repos\Solution1\AppWindows\obj\Debug\AppWindows.pdb
+C:\Users\wn_br\source\repos\Solution1\AppWindows\obj\Debug\AppWindows.MainForm.resources
+C:\Users\wn_br\source\repos\Solution1\AppWindows\obj\Debug\AppWindows.Views.Input.resources
